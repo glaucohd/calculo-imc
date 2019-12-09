@@ -1,16 +1,40 @@
-# calculo_imc
+<h1 align="center">
+  Consultar CEP
+</h1>
 
-A new Flutter application.
+<p align="center">
+  <img width="313" height="657" src="https://user-images.githubusercontent.com/40500767/70399685-063c5f80-1a05-11ea-8b8b-b59665d44452.gif">
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Descrição
 
-A few resources to get you started if this is your first Flutter project:
+Com o aplicativo é possível consultar no momento que desejar o endereço de um CEP específico
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Construído com
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Xamarin.Forms](https://docs.microsoft.com/pt-br/xamarin/)
+- [C#](https://dart.dev/)
+
+
+
+## Autor
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="http://github.com/glaucohd/">
+        <img src="https://avatars0.githubusercontent.com/u/40500767?v=4" width="100px;" alt="Glauco Nascimento"/>
+        <br />
+        <sub>
+          <b>Glauco Nascimento</b>
+        </sub>
+       </a>
+       <br />
+    </td>
+  </tr>
+</table>
+
+## Licença
+
+Este projeto está licenciado sob a licença MIT - consulte o arquivo `LICENSE.md` para obter detalhes.
