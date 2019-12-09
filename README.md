@@ -1,5 +1,5 @@
 <h1 align="center">
-  Consultar CEP
+  Calculadora de IMC
 </h1>
 
 <p align="center">
@@ -9,12 +9,12 @@
 
 ## Descrição
 
-Com o aplicativo é possível consultar no momento que desejar o endereço de um CEP específico
+Esse aplicativo calcula o índice de massa corporal (IMC) de uma pessoa, de acordo com o seu peso e a sua altura. Com ele é possível calcular o seu IMC, tirar suas dúvidas e saber se você está acima do seu peso ideal.
 
 ## Construído com
 
-- [Xamarin.Forms](https://docs.microsoft.com/pt-br/xamarin/)
-- [C#](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
 
 
